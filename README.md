@@ -7,8 +7,9 @@ What this is NOT:
 - This is NOT a crack or keygen for GameMaker 6.0, or 6.1a, the pathced version still requires a valid GM6 or GM61a product key to unlock all features
 
 How to apply the patch?
-- Simply Download the patch for whatever version your using and extract the 7z file using 7-zip, 
+- Simply [Download the patch](https://github.com/KuromeSan/GM6Vista/releases/latest) for whatever version your using and extract the 7z file using 7-zip, 
 then copy the files "Game Maker.exe" and "rundata" into the install directory of GameMaker 6
+
 
 Technical details:
 OK, so the only reason why GameMaker 6.0, 6.1, and 6.1a dont run under modern versions of windows is: they were packed using ASProtect 1.3 
