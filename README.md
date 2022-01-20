@@ -14,7 +14,7 @@ then copy the files "Game Maker.exe" and "rundata" into the install directory of
 Technical details:
 OK, so the only reason why GameMaker 6.0, 6.1, and 6.1a dont run under modern versions of windows is: they were packed using ASProtect 1.3 
 
-ASProtect is [Executable Packer](https://en.wikipedia.org/wiki/Executable_compression) and a [Digital Rights Management](https://en.wikipedia.org/wiki/Digital_rights_management) designed to make it hard to reverse-engineer and or tamper with executable files- to make it harder to crack or something.
+ASProtect is [Executable Packer](https://en.wikipedia.org/wiki/Executable_compression) and a [Digital Rights Management](https://en.wikipedia.org/wiki/Digital_rights_management) designed to make it hard to [Reverse Engineer](https://en.wikipedia.org/wiki/Reverse_engineering) and or tamper with executable files- to make it harder to crack or something.
 
 these old versions of ASProtect stopped working with Windows Vista, because of its use of [Self Modifying Code](https://en.wikipedia.org/wiki/Self-modifying_code) 
 because the GameMaker 6 main executable *and* game executables are packed with it, all GM6 games simply stopped working on all versions of windows, after Vista.
