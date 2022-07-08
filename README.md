@@ -3,7 +3,7 @@
 What is this repo? 
 - Patched executables for GameMaker 6 and 6.1a to allow it to run on Microsoft Windows Vista, and later versions
 
-- This is NOT a crack or keygen for GameMaker 6.0, or 6.1a, the pathced version still requires a valid GM6 or GM61a product key to unlock all features
+- This is NOT a crack or keygen for GameMaker 6.0, or 6.1a, this version still requires a valid GM6 or GM61a product key to unlock all features
 
 How to apply the patch?
 - Simply [Download the patch](https://github.com/KuromeSan/GM6Vista/releases/latest) for whatever version your using and extract the 7z file using 7-zip, 
