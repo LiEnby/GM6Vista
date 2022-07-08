@@ -23,4 +23,5 @@ it also patches some hard coded offsets into the rundata executable for changing
 
 the rundata used here is the same one given to us by Mark Overmas in the GM6 to Vista converter, which is basically just the original rundata executable, (pre-packing) however as we dont have the original unpacked main executable, i had to use some unpacker tool .
 
-NOTE: this patch makes no changes to the license checks, the engine still requires a valid GM6 product key!
+NOTE: this patch makes no changes to the license checks, the engine still requires a valid GM6 product key !
+
